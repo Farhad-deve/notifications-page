@@ -44,7 +44,7 @@ function App() {
 
           <div onClick={() => handleRead(1)} className={'d-flex align-i-center gap-1r pad-1r bor-rad-10 cursor-p' + (unReadNotifications[0].isRead === true ? '' : ' bg-blue-100')}>
             <div>
-              <img src="/assets/images/avatar-mark-webber.webp" alt="Avatar" className='ava' />
+              <img src="assets/images/avatar-mark-webber.webp" alt="Avatar" className='ava' />
             </div>
 
             <div className='d-flex flex-column gap-05r'>
@@ -55,7 +55,7 @@ function App() {
 
           <div onClick={() => handleRead(2)} className={'d-flex align-i-center gap-1r pad-1r bor-rad-10 cursor-p' + (unReadNotifications[1].isRead === true ? '' : ' bg-blue-100')}>
             <div>
-              <img src="/assets/images/avatar-angela-gray.webp" alt="Avatar" className='ava' />
+              <img src="assets/images/avatar-angela-gray.webp" alt="Avatar" className='ava' />
             </div>
 
             <div>
@@ -66,7 +66,7 @@ function App() {
 
           <div onClick={() => handleRead(3)} className={'d-flex align-i-center gap-1r pad-1r bor-rad-10 cursor-p' + (unReadNotifications[2].isRead === true ? '' : ' bg-blue-100')}>
             <div>
-              <img src="/assets/images/avatar-jacob-thompson.webp" alt="Avatar" className='ava' />
+              <img src="assets/images/avatar-jacob-thompson.webp" alt="Avatar" className='ava' />
             </div>
 
             <div>
@@ -77,7 +77,7 @@ function App() {
 
           <div className='d-flex gap-1r pad-1r'>
             <div>
-              <img src="/assets/images/avatar-rizky-hasanuddin.webp" alt="Avatar" className='ava' />
+              <img src="assets/images/avatar-rizky-hasanuddin.webp" alt="Avatar" className='ava' />
             </div>
 
             <div className='d-flex flex-column gap-1r'>
@@ -99,7 +99,7 @@ function App() {
           <div className='d-flex just-c-sb align-i-center pad-1r'>
             <div className='d-flex align-i-center gap-1r'>
               <div>
-                <img src="/assets/images/avatar-kimberly-smith.webp" alt="Avatar" className='ava' />
+                <img src="assets/images/avatar-kimberly-smith.webp" alt="Avatar" className='ava' />
               </div>
 
               <div className='d-flex flex-column gap-05r'>
@@ -109,13 +109,13 @@ function App() {
             </div>
 
             <div>
-              <img src="/assets/images/image-chess.webp" alt="image chess" className='ava cursor-p tr-a-03s-ea chess-img bor-rad-10' />
+              <img src="assets/images/image-chess.webp" alt="image chess" className='ava cursor-p tr-a-03s-ea chess-img bor-rad-10' />
             </div>
           </div>
 
           <div className='d-flex align-i-center gap-1r pad-1r'>
             <div>
-              <img src="/assets/images/avatar-nathan-peterson.webp" alt="Avatar" className='ava' />
+              <img src="assets/images/avatar-nathan-peterson.webp" alt="Avatar" className='ava' />
             </div>
 
             <div className='d-flex flex-column gap-05r'>
@@ -126,7 +126,7 @@ function App() {
 
           <div className='d-flex align-i-center gap-1r pad-1r'>
             <div>
-              <img src="/assets/images/avatar-anna-kim.webp" alt="Avatar" className='ava' />
+              <img src="assets/images/avatar-anna-kim.webp" alt="Avatar" className='ava' />
             </div>
 
             <div className='d-flex flex-column gap-05r'>
